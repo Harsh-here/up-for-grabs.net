@@ -11,9 +11,6 @@ are helpful tools installed that require these to be available.
 
 With those tools installed, you can then install the packages required:
 
-```shellsession
-$ yarn
-```
 
 We use `prettier` to enforce a consistent format to the code, and at any time
 you can run this command to ensure your changes are formatted correctly:
